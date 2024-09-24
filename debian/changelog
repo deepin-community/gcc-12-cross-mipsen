@@ -1,5 +1,7 @@
-template-repository (1.0-1) unstable; urgency=medium
+gcc-12-cross-mipsen (1) unstable; urgency=medium
 
-  * Initial release
+  * Initial commit for GCC 12 mipsen cross toolchain.
+  * The versioning is reset to mark deepin-upstream, as GCC 12 is our
+    default (not 14, as per Debian).
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Mingcong Bai <baimingcong@uniontech.com>  Tue, 24 Sep 2024 16:54:37 +0800
